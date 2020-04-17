@@ -19,14 +19,6 @@
         "url": "/Contact"
       },
       {
-        "label": "Features",
-        "url": "/features"
-      },
-      {
-        "label": "Pricing",
-        "url": "/pricing"
-      },
-      {
         "label": "Subscribe & listen",
         "url": "/signup",
         "primary": true
