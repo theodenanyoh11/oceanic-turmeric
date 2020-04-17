@@ -1,9 +1,9 @@
 {
-  "title": "Stackbit Azimuth Theme",
+  "title": "You are a Lawyer",
   "palette": "orange",
   "header": {
     "title": "Azimuth",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/primary_logo.png",
     "has_nav": true,
     "nav_links": [
       {
