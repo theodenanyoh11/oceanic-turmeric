@@ -5,8 +5,8 @@ sections:
   template: section_hero
   title: You are a Lawyer Podcast - hosted by Kyla Denanyoh
   section_id: hero
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: A podcast that shares the experiences and successes of law graduates who
+    created their own paths.
   image: "/images/10.jpg"
   actions:
   - label: Learn More
