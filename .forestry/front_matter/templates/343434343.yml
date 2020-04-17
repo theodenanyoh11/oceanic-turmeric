@@ -1,0 +1,16 @@
+---
+label: '343434343'
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: file
+  name: image
+  label: image
+- type: text
+  name: template
+  label: template
