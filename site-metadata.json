@@ -7,16 +7,16 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "Contact",
-        "url": "/Contact"
+        "label": "Episodes",
+        "url": "/Episodes"
       },
       {
         "label": "About",
         "url": "/About"
       },
       {
-        "label": "Episodes",
-        "url": "/Episodes"
+        "label": "Contact",
+        "url": "/Contact"
       },
       {
         "label": "Features",
@@ -25,11 +25,6 @@
       {
         "label": "Pricing",
         "url": "/pricing"
-      },
-      {
-        "label": "Style Guide",
-        "url": "/style-guide",
-        "primary": false
       },
       {
         "label": "Sign Up",
