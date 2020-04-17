@@ -7,7 +7,7 @@ sections:
   section_id: hero
   content: A podcast that shares the experiences and successes of law graduates who
     created their own paths.
-  image: "/images/10.jpg"
+  image: "/images/IMG_4439.JPG"
   actions:
   - label: Learn More
     url: "/features"
