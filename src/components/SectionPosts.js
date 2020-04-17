@@ -11,7 +11,7 @@ export default class SectionPosts extends React.Component {
         let recent_posts = display_posts.slice(0, 3);
         return (
             <section id={_.get(section, 'section_id')} className={'block posts-block bg-' + _.get(section, 'background') + ' outer'}>
-              <div className="block-header inner-small">
+              <div className="block-header">
                 {_.get(section, 'title') && 
                 <h2 className="block-title">{_.get(section, 'title')}</h2>
                 }
