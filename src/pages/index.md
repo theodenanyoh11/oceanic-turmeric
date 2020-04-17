@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  title: This Is A Big Hero Headline
+  title: You are a Lawyer Podcast - hosted by Kyla Denanyoh
   section_id: hero
   content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
     who need a sleek, modern SaaS site. '
