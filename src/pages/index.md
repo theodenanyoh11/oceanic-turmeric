@@ -25,7 +25,7 @@ sections:
       this podcast.
     image: "/images/EP0_Rect_Episode_Post_Card.jpg"
     actions:
-    - label: Learn More
+    - label: Listen Now
       url: https://www.youarealawyer.com/episodes/episode-0-how-law-school-helped-me-find-my-seat-at-the-table
       primary: false
       new_window: false
