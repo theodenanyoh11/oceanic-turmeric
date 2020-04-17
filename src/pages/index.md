@@ -20,13 +20,13 @@ sections:
   subtitle: ''
   background: gray
   features:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
+  - title: How law school helped me find my seat at the table
+    content: Check out the trailer to the show and learn about my journey to creating
+      this podcast.
     image: "/images/EP0_Rect_Episode_Post_Card.jpg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: https://www.youarealawyer.com/episodes/episode-0-how-law-school-helped-me-find-my-seat-at-the-table
       primary: false
       new_window: false
 - type: section_cta
