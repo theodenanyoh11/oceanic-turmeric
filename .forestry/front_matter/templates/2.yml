@@ -1,4 +1,10 @@
 ---
 label: '2'
 hide_body: false
-fields: []
+fields:
+- name: df
+  type: text
+  config:
+    required: false
+  label: df
+  description: df
