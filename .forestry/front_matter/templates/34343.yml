@@ -11,3 +11,8 @@ fields:
     schema:
       format: markdown
   label: df
+- name: dff
+  type: text
+  config:
+    required: false
+  label: dff
