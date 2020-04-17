@@ -7,6 +7,10 @@
     "has_nav": true,
     "nav_links": [
       {
+        "label": "About",
+        "url": "/About"
+      },
+      {
         "label": "Episodes",
         "url": "/Episodes"
       },
