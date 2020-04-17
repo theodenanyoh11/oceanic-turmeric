@@ -7,10 +7,6 @@
     "has_nav": true,
     "nav_links": [
       {
-        "label": "Home",
-        "url": "/"
-      },
-      {
         "label": "Features",
         "url": "/features"
       },
